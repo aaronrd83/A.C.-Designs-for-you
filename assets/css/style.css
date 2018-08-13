@@ -1,4 +1,7 @@
 body {
   background-color: #dbda64	
+}
 
+.jumbotron {
+  background-image: 	url("/assets/images/ACdesigns_jumbotron.png")
 }
