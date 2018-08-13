@@ -3,5 +3,8 @@ body {
 }
 
 .jumbotron {
-  background-image: 	url("/assets/images/ACdesigns_jumbotron.png")
+  background-color: #dbda64;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
 }
