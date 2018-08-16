@@ -1,23 +1,28 @@
 body {
-  background-color: #dbda64	
-}
-.example3 .navbar-brand {
-  height: 80px;
+  background-color: 	#dbda64;
 }
 
-.example3 .nav >li >a {
-  padding-top: 30px;
-  padding-bottom: 30px;
+
+  
+#logo-main {
+    display: block;
 }
-.example3 .navbar-toggle {
-  padding: 10px;
-  margin: 25px 15px 25px 0;
+
+.navbar-header, .collapse, .navbar {
+  background-color: 	#dbda64;
 }
-.navbar-brand {
-  padding: 0px;
+.navbar {
+  border: 0px;
 }
-.navbar-brand>img {
-  height: 100%;
-  padding: 15px;
-  width: auto;
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+color:	#ae6ad7; /* <—– change your color here*/
+background-color: transparent;
+}
+li {
+  margin-top: 50px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif
 }
